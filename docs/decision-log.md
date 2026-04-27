@@ -181,6 +181,13 @@
 - Impact: The repo can now be committed and shared as a standard app codebase rather than a machine snapshot.
 - Scope change: Repo hygiene and handoff readiness only.
 
+### Publish the repo publicly on GitHub
+
+- Decision: Create `media-planning-platform-demo` as a public GitHub repository.
+- Why: The user explicitly chose a public repository for sharing the demo.
+- Impact: The codebase can now be synced to a shareable remote and referenced directly from GitHub.
+- Scope change: Repository hosting configuration only.
+
 ### Removed the duplicate metric-card row from Performance
 
 - Decision: Remove the smaller white metric row beneath the main `Summary` panel on the `Performance` page.

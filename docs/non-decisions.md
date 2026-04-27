@@ -12,6 +12,11 @@
 - We are not committing `dist/` or `node_modules/`.
 - Reason: The repo should contain source and docs, not generated or reinstallable artifacts.
 
+### No private GitHub visibility
+
+- We are not creating this repository as private.
+- Reason: The user explicitly selected a public GitHub repo for the demo.
+
 ## 2026-04-15
 
 ### No deeper widget interactivity yet

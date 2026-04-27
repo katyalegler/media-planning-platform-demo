@@ -29,6 +29,10 @@ The previous audience table leaned too much toward descriptive segmentation fiel
 ### Why the repo needs cleanup before GitHub sync
 
 Local recovery assets can be useful inside a working folder, but they should not define the shape of the shared repository. A GitHub repo for this demo should contain the product code, documentation, and configuration needed to run the app in a normal environment. Keeping machine-specific bundles and generated output out of version control makes the repo easier to clone, review, and maintain.
+
+### Why public visibility makes sense here
+
+This demo is intentionally built from dummy data and client-safe presentation logic. Because it avoids private client assets and infrastructure, a public repository is acceptable and makes sharing, review, and future hosting setup much easier than a private handoff flow.
 ## Why a consolidated rules document was needed
 
 The demo direction was established gradually: first the platform boundaries, then the Steppe-inspired visual system, then the performance-vs-planning distinction, and then the exact planning workflow. Keeping those principles only in chat would make future work slower and less consistent.

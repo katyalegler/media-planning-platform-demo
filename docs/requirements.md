@@ -4,6 +4,7 @@
 
 - Maintain `docs/demo-rules.md` as the single source of truth for core demo principles.
 - Keep the repository shareable by excluding machine-local runtime bundles, generated output, and dependency directories from git.
+- Publish the GitHub repository as public.
 
 ## Navigation
 
