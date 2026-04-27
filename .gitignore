@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+*.tsbuildinfo
+node-v22.14.0-darwin-arm64/
+node-v22.14.0-darwin-arm64.tar.gz
