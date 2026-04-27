@@ -188,6 +188,13 @@
 - Impact: The codebase can now be synced to a shareable remote and referenced directly from GitHub.
 - Scope change: Repository hosting configuration only.
 
+### Added a demo screenshot to the README
+
+- Decision: Add a live screenshot of the running `Performance` page to the repository README.
+- Why: The user wanted the GitHub repo to show the product visually without requiring someone to run the app first.
+- Impact: The public repository now communicates the demo look and feel immediately on first open.
+- Scope change: Documentation and screenshot asset only.
+
 ### Removed the duplicate metric-card row from Performance
 
 - Decision: Remove the smaller white metric row beneath the main `Summary` panel on the `Performance` page.

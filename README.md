@@ -2,6 +2,12 @@
 
 Lightweight client-safe demo of a media planning platform built with React, TypeScript, and Vite.
 
+## Demo Preview
+
+### Performance
+
+![Performance page preview](./docs/demo-screenshot-performance.png)
+
 ## What it includes
 
 - `Performance` for historical automotive campaign analysis

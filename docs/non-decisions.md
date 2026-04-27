@@ -17,6 +17,11 @@
 - We are not creating this repository as private.
 - Reason: The user explicitly selected a public GitHub repo for the demo.
 
+### No screenshot gallery yet
+
+- We are not turning the README into a large multi-image gallery in this step.
+- Reason: The immediate goal is to make the repository page visually representative with a clean single screenshot, not to overload the README.
+
 ## 2026-04-15
 
 ### No deeper widget interactivity yet

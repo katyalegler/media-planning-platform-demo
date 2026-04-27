@@ -33,6 +33,10 @@ Local recovery assets can be useful inside a working folder, but they should not
 ### Why public visibility makes sense here
 
 This demo is intentionally built from dummy data and client-safe presentation logic. Because it avoids private client assets and infrastructure, a public repository is acceptable and makes sharing, review, and future hosting setup much easier than a private handoff flow.
+
+### Why the README should show the product visually
+
+For a demo repository, a screenshot does more work than another paragraph of explanation. It lets someone understand the interface style, information density, and overall polish instantly. Because this project is presentation-led, the README should reflect that and not read like a code-only repo.
 ## Why a consolidated rules document was needed
 
 The demo direction was established gradually: first the platform boundaries, then the Steppe-inspired visual system, then the performance-vs-planning distinction, and then the exact planning workflow. Keeping those principles only in chat would make future work slower and less consistent.
